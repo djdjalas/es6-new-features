@@ -22,8 +22,5 @@ module.exports = {
         }
       }
     ]
-  },
-  resolve : {
-    modulesDirectories : ['app', 'node_modules']
   }
 };
