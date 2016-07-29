@@ -1,0 +1,36 @@
+1.	Intro
+  a.	Requirements
+  b.	What is ECMAs
+  c.	How to use it
+2.	Transpiling
+  a.	Babel
+  b.	Webpack
+  c.	Browser
+3.	Modules
+4.	Set up and exercise files
+  a.	Exercises Folder structure
+  b.	Exercise files with git
+5.	New Syntax and build in methods
+  a.	Understanding self-execution function first
+  b.	Variable and scoping - let
+  c.	Const
+  d.	Template literals
+  e.	Spread
+  f.	Strings
+    i.	Repeat
+    ii.	Search with include					
+6.	Functions and Objects
+  a.	Arrow functions
+  b.	Scope with this
+  c.	Destructuring
+  d.	Generators
+  e.	Enhanced object properties
+  f.	Default parameters
+  g.	Promises
+7.	Classes
+  a.	Writing your first class
+  b.	Inheritance
+  c.	Static
+  d.	Super
+8.	Map/Set
+9.	Where to go from here ?

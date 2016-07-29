@@ -3,7 +3,7 @@ export default () => {
 console.log("nelson");
   /*
 
-    they are functions that can be paused
+    they are functions that can be paused by using the yield keyword
 
   */
 
